@@ -13,7 +13,7 @@ $email->addContent("text/plain", "and easy to do anywhere, even with PHP");
 $email->addContent(
     "text/html", "<strong>and easy to do anywhere, even with PHP</strong>"
 );
-$sendgrid = new \SendGrid('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');
+$sendgrid = new \SendGrid('');
 try {
     $response = $sendgrid->send($email);
     print $response->statusCode() . "\n";
