@@ -3,7 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 require_once(APPPATH.'/stripe-php-7.33.1/init.php');
 // This is a sample test API key. Sign in to see examples pre-filled with your key.
 
-\Stripe\Stripe::setApiKey('rk_test_mdWRowlyilewcFWggwsmeKah00LPpFOQUo');
+\Stripe\Stripe::setApiKey('');
 
 class paysubsription extends CI_Controller {
 
