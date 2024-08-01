@@ -1,0 +1,47 @@
+{
+  "status": 200,
+  "message": "Success",
+  "data": {
+    "id": "11",
+    "product_id": "R17953",
+    "name": "Audi",
+    "details": "{\"address\":\"Vijay Nagar\",\"category\":\"Automobile\",\"city\":\"Bhopal\",\"description\":\"Luxurious Car\",\"document\":\"[https://api.applatus.com/rah/api/api/uploads/b17990922e88fbdd3bc8f60d143acb38.jpg]\",\"fileds\":[{\"key\":\"Model\",\"value\":\"Q7 \"},{\"key\":\"Fuel Variant\",\"value\":\"Petrol\"},{\"key\":\"Mileage\",\"value\":\"10 km/ltr\"},{\"key\":\"Sitting Capacity\",\"value\":\"2\"},{\"key\":\"Baggage\",\"value\":\"Yes\"},{\"key\":\"Engine\",\"value\":\"1500 cc\"},{\"key\":\"Gear Type\",\"value\":\"Automatic\"}],\"images\":\"[https://api.applatus.com/rah/api/api/uploads/313081-img_1594722539653.jpg]\",\"min_booking_amount\":\"50\",\"mobile_no\":\"9111107373\",\"name\":\"Harsh Patel\",\"price\":\"50\",\"price_unit\":\"Day\",\"product_name\":\"Audi\",\"subcategory\":\"Car\"}",
+    "category_id": "6",
+    "sub_category_id": "3",
+    "category_name": null,
+    "sub_category_name": null,
+    "is_featured": "1",
+    "featured_at": "2020-07-14 04:38:19",
+    "created_at": "2020-07-14 04:38:19",
+    "updated_at": "0",
+    "user_id": "18",
+    "status": "1",
+    "is_delete": "0",
+    "is_approved": "1",
+    "is_like": "1",
+    "user_name": "NA",
+    "user_image": "NA",
+    "avg_ratting": "4",
+    "verification_required": "0",
+    "reviewdata": [
+      {
+        "user_id": "168",
+        "ratting": "5",
+        "review": "Flow",
+        "created_at": "2020-08-01 16:18:10",
+        "name": "",
+        "email": "",
+        "profile_pic": "NA"
+      },
+      {
+        "user_id": "254",
+        "ratting": "3",
+        "review": "ow",
+        "created_at": "2020-09-07 07:15:41",
+        "name": "",
+        "email": "",
+        "profile_pic": "NA"
+      }
+    ]
+  }
+}

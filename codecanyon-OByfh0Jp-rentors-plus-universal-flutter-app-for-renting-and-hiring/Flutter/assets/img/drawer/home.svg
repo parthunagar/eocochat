@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="bound_24" width="19" height="19" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="home" transform="translate(0.299 0.299)">
+    <g id="bound_24-2" data-name="bound_24" transform="translate(-0.299 -0.299)">
+      <g id="Mask_Group_12" data-name="Mask Group 12" clip-path="url(#clip-path)">
+        <g id="home-2" data-name="home" transform="translate(0 1.053)">
+          <g id="Group_8746" data-name="Group 8746">
+            <g id="Group_8745" data-name="Group 8745">
+              <path id="Path_8890" data-name="Path 8890" d="M19.195,8.134,10,1.4a.5.5,0,0,0-.6,0L.206,8.134a.5.5,0,0,0,.6.813L9.7,2.432l8.9,6.515a.5.5,0,0,0,.6-.813Z" transform="translate(0 -1.303)" fill="#fff"/>
+            </g>
+          </g>
+          <g id="Group_8748" data-name="Group 8748" transform="translate(2.139 7.758)">
+            <g id="Group_8747" data-name="Group 8747">
+              <path id="Path_8891" data-name="Path 8891" d="M17.265,10.9a.5.5,0,0,0-.5.5v8.024H12.728v-4.38a2.521,2.521,0,1,0-5.041,0v4.38H3.654V11.4a.5.5,0,0,0-1.008,0v8.528a.5.5,0,0,0,.5.5H8.191a.5.5,0,0,0,.5-.465.38.38,0,0,0,0-.039V15.048a1.512,1.512,0,0,1,3.025,0v4.884a.37.37,0,0,0,0,.039.5.5,0,0,0,.5.465h5.041a.5.5,0,0,0,.5-.5V11.4A.5.5,0,0,0,17.265,10.9Z" transform="translate(-2.646 -10.9)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
