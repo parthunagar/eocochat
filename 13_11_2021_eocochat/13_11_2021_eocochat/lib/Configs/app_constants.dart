@@ -75,5 +75,5 @@ const razorPayKey = 'rzp_test_bZs7BBsQi57mhe';
 
 
 //-----Stripe Pay-----//
-String? stripePublishKey = 'pk_test_51H0WW3IGsiRZjdeZOQ9g0gkIgCZgSZrUhuQ1LeGlyZQvlfjocfvDSFQZGO1bG4iSlgpxl6soC0EWlzSZrEgD3sN900K611yPOx';
-String? stripeSecretKey = 'sk_test_51H0WW3IGsiRZjdeZFnH2AQpuaWgRgjM7qhhe1SmMaoZfDY5A9d6KJeIuEfT36x3z7gpWRPqps7JhsZX970AQucD1006Y1g8l3W';
+String? stripePublishKey = '';
+String? stripeSecretKey = '';
