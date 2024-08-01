@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="20" height="20" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="settings" clip-path="url(#clip-path)">
+    <g id="Icons_24pt_ic_settings" data-name="Icons / 24pt / ic_settings">
+      <g id="setting">
+        <circle id="Oval" cx="5.133" cy="5.133" r="5.133" transform="translate(4.894 4.876)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Shape" d="M17.46,7.579,15.988,7.2a7.153,7.153,0,0,0-.76-1.826l.782-1.328A.72.72,0,0,0,15.9,3.17L14.875,2.147A.72.72,0,0,0,14,2.035l-1.327.78a7.154,7.154,0,0,0-1.83-.762L10.453.54a.72.72,0,0,0-.7-.54H8.308a.72.72,0,0,0-.7.54l-.39,1.508a7.153,7.153,0,0,0-1.842.763l-1.356-.8a.72.72,0,0,0-.875.111L2.124,3.148a.72.72,0,0,0-.111.875l.8,1.356a7.154,7.154,0,0,0-.754,1.808L.54,7.579a.72.72,0,0,0-.54.7V9.724a.72.72,0,0,0,.54.7l1.506.39a7.154,7.154,0,0,0,.771,1.863L2.037,14a.72.72,0,0,0,.111.874L3.172,15.9a.72.72,0,0,0,.875.111l1.328-.782A7.153,7.153,0,0,0,7.234,16l.376,1.462a.72.72,0,0,0,.7.54H9.755a.72.72,0,0,0,.7-.54l.38-1.47a7.155,7.155,0,0,0,1.846-.769l1.3.765a.72.72,0,0,0,.875-.111l1.024-1.024a.72.72,0,0,0,.111-.875l-.765-1.3A7.154,7.154,0,0,0,16,10.8l1.461-.378a.72.72,0,0,0,.54-.7V8.276A.72.72,0,0,0,17.46,7.579Z" transform="translate(1 1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <g id="bound_24" clip-path="url(#clip-path)">
+          <rect id="bound_24-2" data-name="bound_24" width="20" height="20" fill="none"/>
+          <text id="_24" data-name="24" transform="translate(10 14.222)" fill="none" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="-7.236" y="0">24</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
